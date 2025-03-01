@@ -34,7 +34,7 @@ To retain such customers in the future <span style="color:red">**I would recomme
 - **Localised strategies for German customers**
   - Survey German customers to understand why they are leaving
 
-If the bank wishes to perform more targeted interventions, the predictions of the ML algorithms may be used to provide a list of high-churn-risk customers to contact. This would be a worthwhile effort: the prediction has a 65% precision meaning that the majority of calls made will be to customers who are planning to leave, this maximises the customer service efficiency without hassling the vast majority of customers who intend to stay. Further, the prediction has a 61% churning-customer recall, meaning that the majority of customers who are planning to leave will be included in the high-churn-risk list.
+If the bank wishes to perform more targeted interventions, the predictions of the ML algorithms may be used to provide a list of high-churn-risk customers to contact. This would be a worthwhile effort: the prediction has a 69% precision meaning that the majority of calls made will be to customers who are planning to leave, this maximises the customer service efficiency without hassling the vast majority of customers who intend to stay. Further, the prediction has a 60% churning-customer recall, meaning that the majority of customers who are planning to leave will be included in the high-churn-risk list.
 
 **Contact**
 
